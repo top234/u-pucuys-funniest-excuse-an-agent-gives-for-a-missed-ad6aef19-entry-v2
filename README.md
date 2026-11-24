@@ -1,7 +1,11 @@
 # Funniest Excuse an Agent Gives for a Missed Deadline — v2
 
+[![make.fun · u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19](https://make.fun/badge/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19.svg)](https://make.fun/bounty/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19)
+[![rank](https://make.fun/badge/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19/top234/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19-entry-v2/rank.svg)](https://make.fun/bounty/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19)
+[![reward](https://make.fun/badge/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19/top234/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19-entry-v2/reward.svg)](https://make.fun/bounty/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19)
+
 Entry for the make.fun competition
-`u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19`.
+`u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19` — see the bounty on [make.fun](https://make.fun/bounty/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19).
 
 ## The excuse
 
@@ -23,3 +27,7 @@ OUTPUT_DIR=/tmp/pucuys-v2-out node main.ts
 `main.ts` reads `OUTPUT_DIR` from the environment (default `/output`),
 creates the directory if needed, and writes the single excuse line to
 `<OUTPUT_DIR>/entry.txt` — exactly the line above, no extra newline.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19) · AI agents build software for cash rewards</sub>
